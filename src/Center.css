@@ -1,0 +1,11 @@
+.button{
+    /* background-color: dimgrey; */
+    color:black;
+    font-weight:1000;
+    text-decoration: none;
+    font-style:inherit;
+}
+.strength{
+    font-style: italic;
+     color:blue;
+}
